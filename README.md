@@ -10,7 +10,7 @@
 ##### test5
 
 
-* *Artist:* Linkin Park
+* **Artist:** Linkin Park
 * **Plaadifirma:** Warner Bros
 * **Album:** The Hunting Party
-* **Avaldusaeg:** 2014
+* **Avaldusaeg:** *2014*
